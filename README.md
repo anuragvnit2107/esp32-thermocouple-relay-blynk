@@ -94,7 +94,7 @@ const char* WIFI_SSID     = "YOUR_SSID";
 const char* WIFI_PASSWORD = "YOUR_PASSWORD";
 ```
 
-> ⚠️ **Never commit real credentials to GitHub.** Use a `secrets.h` file and add it to `.gitignore`.
+
 
 ### 4. Upload
 
